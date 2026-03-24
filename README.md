@@ -3,7 +3,7 @@
 
 # 👨‍💻 Prajwal  Gawande
 
-**Cloud & DevOps Engineer | AWS | Automation | Java| System Administration**
+**DevOps Engineer**
 
 
 
