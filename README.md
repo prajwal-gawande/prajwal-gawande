@@ -7,7 +7,7 @@
 
 
 
-📍 Yavatmal, Maharashtra
+📍 Pune, Maharashtra
 📧 [prajwalgawande1311@gmail.com](mailto:prajwalgawande1311@gmail.com)
 📱 +91 93599 70571
 🔗 [LinkedIn](https://www.linkedin.com/in/prajwalgawande/)
