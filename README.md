@@ -17,7 +17,7 @@
 
 ## 🚀 About Me
 
-I’m **Prajwal Gawande**, a motivated Cloud & DevOps enthusiast passionate about designing scalable cloud architectures, automating deployments, and building secure and optimized systems.
+I’m **Prajwal Gawande**,  DevOps Engineer At 12th Wonder passionate about designing scalable cloud architectures, automating deployments, and building secure and optimized systems.
 
 I enjoy working with AWS, DevOps pipelines, system administration, and hands-on cloud projects. I thrive in environments that encourage continuous learning, innovation, and problem-solving.
 
